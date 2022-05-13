@@ -9,6 +9,8 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import modelo.Pedido;
 
+
+
 public class VentanaPedido extends javax.swing.JFrame {
 
     //Se guarda la ventana
